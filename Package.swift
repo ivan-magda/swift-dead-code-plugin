@@ -4,7 +4,7 @@ import PackageDescription
 // The swift-dead-code release this plugin runs; the release workflow of swift-dead-code
 // updates both lines and tags this package with the same version.
 let version = "0.1.0"
-let checksum = "0000000000000000000000000000000000000000000000000000000000000000"
+let checksum = "1c453cd675effd3c4f12658a6e259561d41e2fbf1b7a30d61aa9c6ec48b3366b"
 
 let package = Package(
   name: "swift-dead-code-plugin",
